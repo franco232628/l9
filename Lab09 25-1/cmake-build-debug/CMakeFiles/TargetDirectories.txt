@@ -1,0 +1,3 @@
+C:/Users/Canales Zamora/CLionProjects/test17/cmake-build-debug/CMakeFiles/test17.dir
+C:/Users/Canales Zamora/CLionProjects/test17/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Canales Zamora/CLionProjects/test17/cmake-build-debug/CMakeFiles/rebuild_cache.dir

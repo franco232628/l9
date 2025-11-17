@@ -1,0 +1,3 @@
+C:/Users/AlienCoders/Desktop/CICLO 2025_2/2. TP - OK/LAB09/CLASE 02/TP_SOL_LAB09_2025_1/cmake-build-debug/CMakeFiles/TP_SOL_LAB09_2025_1.dir
+C:/Users/AlienCoders/Desktop/CICLO 2025_2/2. TP - OK/LAB09/CLASE 02/TP_SOL_LAB09_2025_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AlienCoders/Desktop/CICLO 2025_2/2. TP - OK/LAB09/CLASE 02/TP_SOL_LAB09_2025_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
